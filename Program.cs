@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Collections.Generic;
 
-namespace Inheritance
+namespace DelegateUse
 {
     delegate string del(string str);
     class sample
